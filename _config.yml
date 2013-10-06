@@ -8,8 +8,8 @@ pygments: true
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Trent Johnson
-tagline:
+title : Thoughts On Things
+tagline: For those times when I need to share with the world.
 author :
   name : Trent Johnson
   email : trent@trent.io
