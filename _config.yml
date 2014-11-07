@@ -1,0 +1,19 @@
+markdown: rdiscount
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+
+gems:
+  - jekyll-sitemap
+
+name: Trent Johnson
+url: http://trent.io
+
+description: A fantastic blog that is fantastic.
+twitter: trentio
+
+
+github:
+  url: http://github.com/trentio/trentio.github.io
+  owner_url: http://github.com/trentio
+  owner_gravatar_url: http://www.gravatar.com/avatar/5064fcf75adea562d950a34ee9e2dac4.png
